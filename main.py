@@ -1,6 +1,7 @@
 import os
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
+# some utils images = https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip 
 base_dir = "your_base_dir"
 
 ## Import your own images dataset
